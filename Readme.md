@@ -55,6 +55,8 @@ expense_tracker/
 └── .gitignore              # Excludes unnecessary files from version control
 
 ```
+![image](https://github.com/user-attachments/assets/57c73c50-ddd3-487e-92f4-01fa198ad3eb)
 
+![image](https://github.com/user-attachments/assets/6f86b2a0-8132-45a3-8150-408263ee1921)
 
 --- 
