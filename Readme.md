@@ -18,7 +18,7 @@ A Python application for tracking expenses with features to add, view, categoriz
 
 1. Clone the repository:
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/satyamjaysawal/Expense-Tracker.git
    ```
 2. Install dependencies:
    ```bash
